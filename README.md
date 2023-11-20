@@ -33,7 +33,7 @@
   <!-- </a>  -->
 </div>
 
- <hr/>
+ <!-- <hr/>
  
 <h2 align="center">Languages-Frameworks-Tools</h2>
 <br/>
@@ -43,7 +43,7 @@
 </div>
 
 <br/>
-<hr/>
+<hr/> -->
 
 <!-- <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
